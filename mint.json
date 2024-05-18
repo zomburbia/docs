@@ -27,8 +27,12 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "Oxide",
+      "url": "oxide-reference"
+    }
+    {
+      "name": "Forge",
+      "url": "forge-reference"
     }
   ],
   "anchors": [
