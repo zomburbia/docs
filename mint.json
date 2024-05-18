@@ -33,6 +33,14 @@
     {
       "name": "Forge",
       "url": "forge-reference"
+    },
+    {
+      "name": "Frontend",
+      "url": "frontend-reference"
+    },
+    {
+      "name": "Admin",
+      "url": "admin-reference"
     }
   ],
   "anchors": [
